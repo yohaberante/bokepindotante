@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://bokepindotante.pages.dev/sitemap.xml
